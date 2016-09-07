@@ -1,0 +1,252 @@
+
+nav {
+  padding: 15px 0; 
+  }
+
+h1 {
+  font-family: 'Passion One', cursive;
+}
+
+h2 {
+	font-family:'Suez One', serif;
+
+}
+h4 {
+   font-family: 'Cuprum', sans-serif;
+}
+
+p {
+	font-family: 'Poiret One', cursive;
+	color: #333;
+}
+
+.Menu { 
+  margin: auto;
+  max-width: 800px;
+
+  
+}
+.Menu p  {
+	text-transform: uppercase;
+    display: inline-block;
+    font-weight: bold;
+    position: absolute;
+}
+
+
+.Menu-derecha {
+	float: right;
+}
+
+.Menu-derecha li   {
+	display:inline-block;
+	margin: 5px 15px;
+}
+.Menu-derecha a {
+	text-decoration:none;
+    color: #333;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.Menu-derecha li:first-child {
+      font-weight: bold;
+}
+.encabezado {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a7cfdf+0,23538a+100;Blue+3d+%238 */
+background: #a7cfdf; /* Old browsers */
+background: -moz-linear-gradient(left,  #a7cfdf 0%, #23538a 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #a7cfdf 0%,#23538a 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #a7cfdf 0%,#23538a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a',GradientType=1 ); /* IE6-9 */
+
+
+} 
+.encabezado h1, .encabezado h4, .encabezado img {
+	color: white;
+	max-width: 700px;
+	padding: 30px 0 0 0;
+    margin: auto;
+}
+
+.encabezado h4 {
+	font-size: 11px;
+
+}
+.corte {
+	display: block;
+
+}
+.encabezado img {
+	position: relative;
+	bottom: 100px;
+	left: 650px;
+   
+}
+
+
+.barra-search label {
+	width: 50px;
+	height: 40px;
+	border: 2px solid #333;
+	padding: 26px 32px 26px;
+	position: relative;
+    left: 992px;
+    background: cyan;
+    bottom: 15px;
+    color: white;
+
+}
+.barra-search a {
+	text-decoration:none; 
+	color: white;
+	font-size: 11px;
+	text-transform: uppercase;
+
+}
+
+.barra-search input  {
+	width: 700px;
+	height: 40px;
+	border: 2px solid #333;
+	position: relative;
+	left: 170px;
+    bottom: 15px;
+    padding: 35px 0;
+}
+.caja {
+	background: yellow;
+    padding: 100px;
+    text-align: center;
+
+}
+.caja article  {
+    font-size: 13px;
+    padding:15px 10px;
+    display: inline-block;
+    margin: auto;
+    max-width: 850px;
+    
+    }
+.caja article span {
+	display: block;
+
+}
+
+.contenedor {
+	text-align: center;
+    padding: 50px;
+    background: silver;
+}
+.contenedori {
+    margin: auto;
+	max-width: 1000px;
+
+
+}
+.contenedori .servicio-izquierda,.contenedori .servicio-derecha,.contenedori .iphone  {
+    
+	font-size: 13px;
+	 display: inline-block; 
+}
+
+.contenedori .servicio-izquierda {
+    float: left;
+  
+}
+
+.contenedori .sevicio-derecha  {
+	float: right;
+   
+}
+.pricing {
+	text-align: center;
+	padding: 100px;
+	background: yellow;
+	
+}
+.secua {
+	padding: 30px;
+	background: cyan;
+	text-align: center;
+}
+.cuadro {
+	margin: auto;
+	max-width: 800px;
+
+}
+.cuadro article {
+	width: 170px;
+	height: 370px;
+	border: 2px solid #333;
+	display: inline-block;
+	text-align: center;
+	margin: 0 8px;
+	box-sizing:border-box;
+	background: white;
+
+}
+.boton1,.boton2,.boton3,.boton4 {
+	padding: 8px 30px;
+	border-radius: 5px;
+	background: blue;
+	border: 2px solid white;
+	text-decoration: none;
+	color: white;
+	font-size: 10px;
+
+}
+.cuadro .cuadro1 span {
+	color: blue;
+	font-weight: bold;
+}
+.cuadro .cuadro2 span {
+	color: yellow;
+	font-weight: bold;
+}
+.cuadro .cuadro3 span {
+	color: orange;
+	font-weight: bold;
+}
+.cuadro .cuadro4 span {
+	color: red;
+	font-weight: bold;
+}
+.hosting {
+	font-size: 15px;
+	text-align: center;
+	padding: 40px;
+	color: white;
+	background: magenta;
+}
+footer {
+	padding: 20px;
+	background: #333;
+}
+.pie1 {
+	max-width:850px;
+	margin: auto;
+	padding: 0 60px 30px 0;
+	}
+
+.pie1 p {
+	float: left;
+	color: white;
+	
+}
+
+.piederecho  {
+  float: right;
+}
+
+.piederecho li  {
+	display: inline-block;
+	margin: 0 5px;
+	
+}
+.piederecho li a {
+	text-decoration: none;
+	color: white;
+	font-family: 'Poiret One', cursive;
+}
+
